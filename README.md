@@ -20,13 +20,13 @@ Additionally, in java you can change between hexagonal and square grid.
 
 # Example screens from the game
 ## C++
-![image](https://github.com/polemaster/game_of_life/assets/88908662/53f55c89-61d2-4041-9a4d-92375a497218)
+![image](images/screenshot_cpp.png)
 
 ## Java
-![image](https://github.com/polemaster/game_of_life/assets/88908662/949e1009-b88b-46b4-8471-2f9d412a4aad)
+![image](images/screenshot_java.png)
 
 ## Python
-![image](https://github.com/polemaster/game_of_life/assets/88908662/5b9dc990-47f6-4808-9876-f70a9dcb5240)
+![image](images/screenshot_python.png)
 
 # Installation and execution (on Linux)
 ## C++
